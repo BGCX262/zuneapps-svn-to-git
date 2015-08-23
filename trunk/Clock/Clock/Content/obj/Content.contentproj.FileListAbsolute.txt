@@ -1,0 +1,2 @@
+C:\Documents and Settings\Adyrau\My Documents\Visual Studio 2008\Projects\Clock\Clock\Content\obj\Zune\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Adyrau\My Documents\Visual Studio 2008\Projects\Clock\Clock\Content\obj\Zune\Release\ResolveAssemblyReference.cache

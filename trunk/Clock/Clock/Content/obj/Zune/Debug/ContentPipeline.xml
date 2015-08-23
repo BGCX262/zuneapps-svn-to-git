@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>SpriteFontSmall.spritefont</Source>
+      <Name>SpriteFontSmall</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Adyrau\My Documents\Visual Studio 2008\Projects\Clock\Clock\bin\Zune\Debug\Content\SpriteFontSmall.xnb</Output>
+      <Time>2008-05-08T02:03:36.015625-07:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFontLarge.spritefont</Source>
+      <Name>SpriteFontLarge</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Adyrau\My Documents\Visual Studio 2008\Projects\Clock\Clock\bin\Zune\Debug\Content\SpriteFontLarge.xnb</Output>
+      <Time>2008-05-08T23:19:21.734375-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Zune</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <RootDirectory>C:\Documents and Settings\Adyrau\My Documents\Visual Studio 2008\Projects\Clock\Clock\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Adyrau\My Documents\Visual Studio 2008\Projects\Clock\Clock\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Adyrau\My Documents\Visual Studio 2008\Projects\Clock\Clock\Content\obj\Zune\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Adyrau\My Documents\Visual Studio 2008\Projects\Clock\Clock\bin\Zune\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-04-26T12:32:08-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-04-26T12:32:50-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-04-26T12:32:40-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-04-26T12:31:52-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>c:\Program Files\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-04-26T12:31:52-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2008-05-08T00:29:04.28125-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
